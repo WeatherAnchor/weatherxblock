@@ -1,0 +1,9 @@
+/* CSS for WeatherXBlock */
+
+.weatherxblock_block .count {
+    font-weight: bold;
+}
+
+.weatherxblock_block p {
+    cursor: pointer;
+}

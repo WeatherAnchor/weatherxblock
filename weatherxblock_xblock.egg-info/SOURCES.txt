@@ -1,0 +1,13 @@
+setup.py
+weatherxblock/__init__.py
+weatherxblock/weatherxblock.py
+weatherxblock/static/README.txt
+weatherxblock/static/css/weatherxblock.css
+weatherxblock/static/html/weatherxblock.html
+weatherxblock/static/js/src/weatherxblock.js
+weatherxblock_xblock.egg-info/PKG-INFO
+weatherxblock_xblock.egg-info/SOURCES.txt
+weatherxblock_xblock.egg-info/dependency_links.txt
+weatherxblock_xblock.egg-info/entry_points.txt
+weatherxblock_xblock.egg-info/requires.txt
+weatherxblock_xblock.egg-info/top_level.txt
